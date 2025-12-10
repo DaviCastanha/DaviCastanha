@@ -25,7 +25,7 @@ Gosto de:
 ---
 
 ## Fun fact
-10 horas simplificando algo te economizam uma vida de lágrimas.
+Tempo investido em refinamento jamais é desperdiçado.
 
 ---
 
