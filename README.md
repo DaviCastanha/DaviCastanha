@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DaviCastanha/DaviCastanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Davi Castanha  
+**Fullstack Developer**  
+Criando, simplificando e automatizando — às vezes até sem pedir permissão.
 
-Here are some ideas to get you started:
+[Portfolio](https://davicastanha.vercel.app/) • 
+[LinkedIn](https://www.linkedin.com/in/davicastanhaescribano/) • 
+Email: **davicastanha.esc@gmail.com** • 
+Discord: **yokis**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## Sobre mim
+Ordem sempre estimula o desenvolvimento.  
+Stacks principais: **Next.js, React, Typescript e Nodezinho**.  
+
+Gosto de:
+- Automatizar o que deveria ter sido automático desde o começo.
+- Resolver problema que ninguém queria admitir que existia.
+- Criar ou copiar e melhorar.
+
+---
+
+## Fun fact
+10 horas simplificando algo te economizam uma vida de lágrimas.
+
+---
+
+<div align="center">
+Feito com amor, lágrimas e muita auto-crítica.
+</div>
