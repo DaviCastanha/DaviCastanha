@@ -20,7 +20,7 @@ Stacks principais: **Next.js, React, Typescript e Nodezinho**.
 Gosto de:
 - Automatizar o que deveria ter sido automático desde o começo.
 - Resolver problema que ninguém queria admitir que existia.
-- Criar ou copiar e melhorar.
+- Criar ou refinar.
 
 ---
 
